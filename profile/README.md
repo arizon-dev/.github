@@ -20,11 +20,6 @@
 * Twitter: [@axtonprice](https://twitter.com/axtonprice)
 * Github: [@axtonprice](https://github.com/axtonprice)
 
-👤 **tillyprice**
-
-* Discord: https://discord.gg/dP3MuBATGc
-* Github: [@tillypr1ce](https://github.com/tillypr1ce)
-
 ## Show your support
 
 ⭐ Follow us to keep up to date with development progress and projects!
