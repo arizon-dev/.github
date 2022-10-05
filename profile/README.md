@@ -20,6 +20,11 @@
 * Twitter: [@axtonprice](https://twitter.com/axtonprice)
 * Github: [@axtonprice](https://github.com/axtonprice)
 
+👤 **masondq**
+
+* Discord: https://discord.gg/dP3MuBATGc
+* Github: [@masondq](https://github.com/masondq)
+
 ## Show your support
 
 ⭐ Follow us to keep up to date with development progress and projects!
