@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to axtonprice.com 👋</h1>
+<h1 align="center">Welcome to Arizon 👋</h1>
 <p>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
@@ -8,9 +8,9 @@
   </a>
 </p>
 
-> The axtonprice.com development workspace, for tracking and viewing projects and previous work. A space for the community to collaborate and present ideas.
+> The Arizon development workspace, for tracking and viewing projects. A space for the organisation members to collaborate and present ideas.
 
-### 🏠 [Homepage](https://axtonprice.com)
+### 🏠 [Homepage](https://arizon.dev)
 
 ## Authors
 
@@ -27,4 +27,4 @@
 
 ## Show your support
 
-⭐ Follow us to keep up to date with development progress and projects!
+⭐ Follow us to keep up to date with development progress and project updates!
