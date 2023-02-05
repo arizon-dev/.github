@@ -1,4 +1,4 @@
-<div align="left"><img height="200" style="margin: 0; padding:0" src="https://user-images.githubusercontent.com/37771600/216801652-e1885d49-d256-4c8c-8632-f502c445cde1.png"></div>
+<div align="left"><img height="150" style="margin: 0; padding:0" src="https://user-images.githubusercontent.com/37771600/216801652-e1885d49-d256-4c8c-8632-f502c445cde1.png"></div>
 <!--<h2 align="center">Welcome to Arizon Development 👋</h2>-->
 <p>
   <a href="#" target="_blank">
