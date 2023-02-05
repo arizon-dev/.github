@@ -15,12 +15,11 @@
 ### 🏠 [Discord Server](https://arizon.dev/discord)
 
 ## Looking To Join?
+> *We take your privacy seriously as a member of our community. The details you provide us with are strictly for our own use and we will never share, sell, or release your information to any third-party organisations or companies. Please contact us at info@arizon.dev for questions regarding this policy.*
 
 * 📨 Send us an email at join@arizon.dev containing your Discord and GitHub username, as well as your preferred contact details, which must include an email address and a formal name.
 * OR:
 * 🎟️ Join our community [Discord](https://arizon.dev/discord) server and [open a new support ticket](https://discord.com/channels/826239258590969897/1011474540062322698/1011476328211546183). Let us know your GitHub username as well as your preferred contact details, which must include an email address and a formal name. 
-
-> *We take your privacy seriously as a member of our community. The details you provide us with are strictly for our own use and we will never share, sell, or release your information to any third-party organisations or companies. Please contact us at info@arizon.dev for questions regarding this policy.*
 
 ## Staff / Maintainers
 
