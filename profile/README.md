@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> The Arizon development workspace. A platform for the Arizon members to collaborate and present their code to develop skills and create new things!
+> The Arizon development workspace. A platform for new developers to collaborate and present projects to develop their skills and create new things!
 
 ### 🏠 [Website](https://arizon.dev)
 ### 🏠 [Discord Server](https://arizon.dev/discord)
