@@ -25,10 +25,10 @@
 
 👤 **axtonprice**
 * Twitter: [@axtonprice](https://twitter.com/axtonprice)
-* Github: [@axtonprice](https://github.com/axtonprice)
+* GitHub: [@axtonprice](https://github.com/axtonprice)
 
 👤 **masondq**
-* Github: [@masondq](https://github.com/masondq)
+* GitHub: [@masondq](https://github.com/masondq)
 
 ## Show Your Support!
 
