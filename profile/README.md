@@ -14,6 +14,10 @@
 ### 🏠 [Website](https://arizon.dev)
 ### 🏠 [Discord Server](https://arizon.dev/discord)
 
+## Additional Benefits
+We are proud to say that we strive to assist the development of our developers to such an extent that we offer free hosting exclusively for our members to allow them to develop their projects on a production-level scale!
+> Arizon is able to accomodate hosting for PHP/Node.js web application projects, as well as any application supported by the *Pterodactyl Panel* project as listed on the official *[Pterodactyl Eggs](https://github.com/parkervcp/eggs)* repository.
+
 ## Looking To Join?
 > *We take your privacy seriously as a member of our community. The details you provide us with are strictly for our own use and we will never share, sell, or release your information to any third-party organisations or companies. Please contact us at info@arizon.dev for questions regarding this policy.*
 
