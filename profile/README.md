@@ -19,7 +19,7 @@ We are proud to say that we strive to assist the development of our developers t
 > Arizon is able to accomodate hosting for PHP/Node.js web application projects, as well as any application supported by the *Pterodactyl Panel* project as listed on the official *[Pterodactyl Eggs](https://github.com/parkervcp/eggs)* repository.
 
 ## Looking To Join?
-> *We take your privacy seriously as a member of our community. The details you provide us with are strictly for our own use and we will never share, sell, or release your information to any third-party organisations or companies. Please contact us at info@arizon.dev for questions regarding this policy.*
+> *We take your privacy seriously as a member of our community. The details you provide us with are strictly for our own use and we will never share, sell, or release your information to any third-party organisations or companies. Please contact us at info@arizon.dev, or gdpr@arizon.dev for questions regarding our data protection policies.*
 
 * 📨 Send us an email at join@arizon.dev containing your Discord and GitHub username, as well as your preferred contact details, which must include an email address and a formal name.
 * OR:
