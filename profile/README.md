@@ -26,14 +26,14 @@ Join Arizon today and embark on a transformative journey where your creativity k
 
 ## Looking To Join?
 > *At our community, we prioritize your privacy as a member. We handle the information you provide to us with utmost care and strictly for our internal use only. Rest assured that we will never share, sell, or release your personal details to any third-party organizations or companies. Please contact us at info@arizon.dev, or gdpr@arizon.dev for questions regarding our data protection policies.*
+You can use one of the following methods below to begin the simple onboarding process.
+
+* 📨 Send us an email at join@arizon.dev containing your Discord and GitHub username, as well as your preferred contact details, which must include an email address and a formal name.
+* 🎟️ Join our community [Discord](https://arizon.dev/discord) server and [open a new support ticket](https://discord.com/channels/826239258590969897/1011474540062322698/1011476328211546183). Let us know your GitHub username as well as your preferred contact details, which must include an email address and a formal name. 
 
 ## Additional Benefits
 We take pride in our commitment to supporting the development of our developers. As a testament to this, we provide free hosting exclusively for our members, enabling them to develop their projects at a production-level scale.
 > Arizon offers hosting services for a wide range of projects, including PHP/Node.js web applications. Additionally, we support applications listed on the official *[Pterodactyl Eggs](https://github.com/parkervcp/eggs)* repository, allowing for flexibility in hosting various types of applications.
-
-* 📨 Send us an email at join@arizon.dev containing your Discord and GitHub username, as well as your preferred contact details, which must include an email address and a formal name.
-* OR:
-* 🎟️ Join our community [Discord](https://arizon.dev/discord) server and [open a new support ticket](https://discord.com/channels/826239258590969897/1011474540062322698/1011476328211546183). Let us know your GitHub username as well as your preferred contact details, which must include an email address and a formal name. 
 
 ## Arizon Staff
 
